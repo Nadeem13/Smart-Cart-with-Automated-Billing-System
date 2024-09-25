@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966103279210",
+    "project_id": "smart-shopping-5a6f8",
+    "storage_bucket": "smart-shopping-5a6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966103279210:android:019fb04d70e280af588c13",
+        "android_client_info": {
+          "package_name": "ech.android.smartshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966103279210-dkmd42lbu4pfsapf6v8lqhllm2p6ep8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fObEQ5kv6G-kFOOkNYEn-LX5pAkgrHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966103279210-dkmd42lbu4pfsapf6v8lqhllm2p6ep8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
